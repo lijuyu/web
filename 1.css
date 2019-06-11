@@ -1,0 +1,238 @@
+/*
+* @Author: ASUS
+* @Date:   2019-06-11 08:43:50
+* @Last Modified by:   ASUS
+* @Last Modified time: 2019-06-11 14:22:39
+*/
+*{
+	padding:0px;
+	margin:0px;
+	font-family:微软雅黑;
+	/* border:1px solid black; */
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+li{
+	list-style:none;
+}
+.box{
+	margin:0 auto;
+}
+.top{
+	height:30px;
+	background-image:url('image/qq.png');
+	background-repeat:no-repeat;
+	background-position:332px 6px;
+	background-color:#f4f4f4;
+	text-indent:180px;
+	font-size:12px;
+	line-height:30px;
+}
+.top li {
+	display: inline;
+	margin-right:12px;
+}
+.mulu{
+	height:104px;
+	background-color:#ffffff;
+}
+.sousuo1{
+	width:406px;
+	height:40px;
+	float:left;
+}
+.mulu .one{
+	width:406px;
+	height:38px;
+	border:2px solid #f83838;
+	color:#e6e6e6;
+	font-size:14px;
+
+}
+.sousuo2{
+	width:94px;
+	height:40px;
+	float:left;
+}
+.mulu .two{
+	width:94px;
+	height:42px;
+	background-color:#f83838;
+	font-size:16px;
+	color:#fff5f5;
+	border:1px solid #f83838;
+}
+.mulu .E{
+	float:left;
+	margin-left:180px;
+	margin-top:18px;
+}
+.sousuo3{
+	float:left;
+	margin-left:200px;
+	margin-top:40px;
+}
+
+.shop{
+	width:150px;
+	height:40px;
+	float:left;
+	margin:40px 0 0 166px;
+	line-height:40px;
+	border:2px solid #e3e3e3;
+	background-color:#f5f5f5;
+	display:inline-block;
+
+}
+.shop li{
+	display:inline-block;
+}
+.mulu2{
+	height:60px;	
+	font-size:16px;
+	border-bottom:3px solid #e00304;
+}
+.mulu2 li{
+	float:left;
+	width:90px;
+	height:34px;
+	margin-right:26px;
+	margin-top:22px;
+	text-align:center;
+	line-height:34px;
+}
+.mulu2 li a{
+	display:block;
+	width:90px;
+	height:34px;
+}
+.mulu2 li a:hover{
+	background-color:#fd0304;
+	color:#ffffff;
+	border-radius:5px 5px 5px 5px;
+}
+.weizhi{
+	height:66px;
+	line-height:66px;
+	text-indent:180px;
+	font-size:14px;
+	background-color:#fbfbfb;
+}
+.shangpin{
+	height:588px;
+	background-color:#fbfbfb;
+}
+.shangpin .mulu3{
+	margin-left:180px;
+	width:216px;
+	height:564px;
+	background-color:#fbfbfb;
+	float:left;
+
+}
+.shangpin .mulu3 .one{
+	height:46px;
+	line-height:46px;
+	text-align:center;
+	font-size:16px;
+	background-color:white;
+	background-image:url('image/kuang.png');
+	background-size:18px 16px;
+	background-repeat:no-repeat;
+	background-position:34px 16px;
+}
+.shangpin .mulu3 .two{
+	height:494px;
+	text-indent:76px;
+	background-color:white;
+	padding-top:18px;
+	margin-top: 8px;
+	font-size:14px;
+}
+.shangpin .mulu3 .two p a:hover{
+	color:#ff7a73;
+}
+.shangpin2{
+	width:962px;
+	height:546px;
+	margin-left:406px;
+	padding-left:18px;
+	padding-top:18px;
+	background-color:#ffffff;
+	font-size:16px;
+}
+
+.shangpin2 ul li{
+	width:220px;
+	height:252px;
+	border:1px solid #dbdbdb;
+	float:left;
+	margin-right:18px;
+	margin-bottom:18px;
+	text-align:center;
+}
+.shangpin2 ul li p{
+	margin-bottom:8px;
+}
+.bottom1{
+	height:264px;
+	background-color:#2e2e2e;
+}
+.bottom2{
+	width:1200px;
+	height:164px;
+	margin-left:180px;
+	padding-left: 10px;
+	
+}
+.bottom2 ul li{
+	float:left;
+	width:86px;
+	margin-right:184px;
+}
+.bottom2 ul li a{
+	color:white;
+}
+.bottom2 ul .one{
+	font-size:16px;
+	font-weight:lighter;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.bottom2 ul .two{
+	font-size:14px;
+	margin-bottom:15px;
+	font-weight:lighter;
+
+}
+.bottom1 .bottom2 ul .three {
+	margin-right:0px;
+}
+.bottom1 .bottom2 ul .three a{
+	color:#969696;
+}
+.bottom1 .bottom2 ul .four a{
+	color:white;
+}
+.qita{
+	height:100px;
+	width:1200px;
+	border-top:2px solid #454545;
+	font-size:14px;
+	margin-left:180px;
+	color:#848484;
+	text-align:center;
+}
+.qita a{
+	font-size:14px;
+	color:#848484;
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom:30px;
+}
+.qita2{
+	margin-top: 26px;
+	margin-bottom:20px;
+}
